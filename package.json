@@ -10,6 +10,10 @@
     "format": "prettier --config .prettierrc 'src/**/*.{js,jsx}'",
     "lint": "prettier --check --write --config .prettierrc 'src/**/*.{js,jsx}'"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balajsebastian/scriptex.git"
+  },
   "dependencies": {
     "gatsby": "^3.3.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
